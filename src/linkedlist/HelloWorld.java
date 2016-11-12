@@ -11,7 +11,7 @@ public class HelloWorld {
     }
 
     private static String returnHelloWorldString() {
-        return "Hello World";
+        return "Hello IDEA";
     }
 }
 
